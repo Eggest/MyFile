@@ -1,0 +1,4 @@
+GitHubProxyWebStart.zip里面打包的是带有支持库的文件，必须要和_internal文件夹放在一起才可以运行。
+GitHubProxyWebStart.exe是单打包文件，可以在有Python的情况下直接运行
+GitHubProxyWebStart.py是源代码，欢迎Ctrl + C，Ctrl + V。
+GitHubProxyWebStart.ico是GitHub的图标，打包用的
